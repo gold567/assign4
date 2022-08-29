@@ -1,0 +1,23 @@
+.dog{
+    width: 35%;
+}
+.bird{
+    width: 30%;
+}
+.topic{
+    text-align: center;
+    font-style: italic;
+    font-size: xx-large;
+    background-color: rgb(231, 170, 90);
+}
+body{
+    background-color: rgb(231, 170, 90);
+}
+.cat{
+    width: 30%;
+}
+a{
+    font-style: italic;
+    font-size: larger;
+    color: rgb(0, 4, 255);
+}
